@@ -1,0 +1,6 @@
+---
+name: testing
+title: Скала^р
+version: "dev"
+nav:
+  - modules/ROOT/nav.adoc
